@@ -1,0 +1,381 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.container{
+    width: 100%;
+    height: 400px;  
+    display: flex;
+    justify-content: center;
+    background: #F8F8F9;
+    
+}
+
+.container2{
+    width:  auto;
+    height: 350px;
+    margin-top: 20px;
+
+}
+.text{
+    width: 60%;
+    height: 240px;
+    margin-left: 33px;
+    margin-top: 30px;
+}
+.texbut{
+    width: 17%;
+    height: 30px;
+    color: #fff;
+    background-color: #00B5EC;
+    border: none;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.kom{
+    width: auto;
+    height: auto;
+}
+.texkom{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+
+
+
+
+
+.olmos{
+    width: 75%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.group{
+    margin-left: 170px;
+}
+
+.navbar{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+
+}
+
+.opt{
+    width: auto;
+    height: auto;
+    border: none;
+    font-size: 15px;
+    margin: 10px;
+    margin-right: 35px;
+    background-color: transparent;
+}
+
+.navbar2{
+    width: 30%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.button1{
+    width: 25%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background: #454851;
+    color: #fff;
+
+}
+
+
+
+.button1:active{
+    box-shadow: 0 3px #535758;
+    transform: translateY(4px);
+}
+
+.navbar3{
+    width: 55%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 20%;
+    height: 50px;
+    margin-left: 35px;
+
+}
+
+
+.bottombar{
+    width: 100%;
+    height: 250px;
+}
+
+.oltidiv{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.divolti{
+    width:  345px;
+    height: 150px;
+    background-color: #fff;
+    color:  #A0A0A0CC;
+    margin-top: 50px;
+    margin: 40px;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: rgba(212, 209, 209, 0.726) 1px 1px 1px 1px;
+    
+}
+
+.divolti:hover{
+    width: 345px;
+    height: 150px;
+    background-image: url("new.png");
+    align-self: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+
+
+.divp{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 15px;
+
+}
+
+
+.button{
+    width: 45%;
+    height: 40px;
+    background: #00B5EC;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-right: 15px;
+    
+}
+
+.button:active{
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+}
+
+.buttons{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button3{
+    background: #9e9a9a4d;
+    width: 9%;
+    height: 40px;
+    border: none;
+    border-radius: 5px
+}
+
+.button3:active{
+    box-shadow: 0 rgb(51, 50, 50) 3px;
+    transform: translateY(4px);
+
+}
+
+.bottombar3{
+    width: 100%;
+    height: 350px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bottombar1{
+    width: 90%;
+    height: 230px;
+
+    display: flex;
+    
+}
+
+.bot1{
+    width: 25%;
+    height: 230px;
+
+    
+    
+}
+
+.bot2{
+    width: 18%;
+    height: 230px;
+
+    font-size: 20px;
+}
+
+.par{
+    margin-top: 15px;
+    color   : #454851CC;
+}
+
+.bot3{
+    width: 15%;
+    height: 230px;
+
+}
+
+.logo2{
+     width: 100%;
+     height: 140px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+}
+
+.ikkidiv{
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+
+.fti{
+   width: 50%;
+   height: 80px;
+   display: flex;
+   justify-content: right 10px;
+   margin-right: 20px;
+   align-items: center;
+
+}
+
+.fti1{
+    margin-left: 40px; 
+}
+
+.bottombut{
+    width: 80%;
+    height: 40px;
+    background: #00B5EC;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.bottombut:active{
+    box-shadow: #667 5px;
+    transform: translateY(4px);
+
+}
+
+h6{
+    color   : #454851CC;
+
+}
+
+
+
+
+
+.this{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    margin-top: 60px;
+
+}
+.this-button{
+    width: 65%;
+    height: 500px;
+}
+.this-butbar{
+    width: 100%;
+    height: 70px;
+    background-color: rebeccapurple;
+    display: flex;
+    margin-top: 10px;
+}
+.but1{
+    width: 65%;
+    height: 70px;
+    background-color: #00B5EC;
+    font-size: 25px;
+    border: none;
+}
+.but2{
+    width: 35%;
+    height: 70px;
+    background: #9EE1F6;
+    font-size: 25px;
+    border: none;
+}
+.this-inputs{
+    width: 80%;
+    height: 420px;
+    margin-left: 100px;
+}
+.this-cuma{
+    width: 35%;
+    height: 500px;
+
+}
+.this-cumbar{
+    width: 100%;
+    height: 80px;
+    background: #F8F8F8;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+
+}
+.this-cumbody{
+    width: 100%;
+    height: 420px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.grn{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.grn1{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.but{
+    width: 25%;
+    height: 40px;
+    background: #454851;
+    margin-left: 200px;
+    border: none;
+    border-radius: 5px;
+}
